@@ -16,11 +16,3 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nikoheld/nikoheld/output/snake.svg" alt="Snake animation" />
-
-###
